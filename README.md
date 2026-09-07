@@ -1,4 +1,4 @@
-#profile-title: Chr
+#profile-title: Bachi–Yurt VPN
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=107374182400000; expire=1810579200
 #support-url: https://wa.me/79990098868
@@ -48,12 +48,11 @@ vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@lk.nehtar.online:443?type=ws&securi
 vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@console.sowt.app:443?type=ws&security=tls&fp=firefox&sni=console.sowt.app&path=/gateway/v1/ws/61393d1daae538e84796ca82b95c81ba&alpn=http/1.1#🇪🇺 Антиглушилка 6?serverDescription=TFRF
 vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@console.sowt.app:443?type=ws&security=tls&fp=firefox&sni=console.sowt.app&path=/gateway/v1/ws/61393d1daae538e84796ca82b95c81ba&alpn=http/1.1#🇪🇺 Антиглушилка 7?serverDescription=TFRF
 vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@fvbn.cloudvk.cc:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=sfd.cloudvk.cc&pbk=Af5z1nqUp0NV9zY4hEtB66G1Df1vzs0TzX-ttU9BPA8#🇪🇺 Антиглушилка 8?serverDescription=TFRF
-vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@lk.virtual-pc.club:443?type=ws&security=tls&fp=firefox&sni=lk.virtual-pc.club&path=/gateway/v1/ws/967fd0b4948d8f7406bc168fc968d897&alpn=http/1.1#🇪🇺 Антиглушилка 9?
-vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@lk.virtual-pc.club:443?type=ws&security=tls&fp=firefox&sni=lk.virtual-pc.club&path=/gateway/v1/ws/967fd0b4948d8f7406bc168fc968d897&alpn=http/1.1#🇪🇺 Антиглушилка 10?serverDescription=TFRF
+vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@fvbn.cloudvk.cc:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=sfd.cloudvk.cc&pbk=Af5z1nqUp0NV9zY4hEtB66G1Df1vzs0TzX-ttU9BPA8#🇪🇺 Антиглушилка 9?serverDescription=TFRF
+vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@fvbn.cloudvk.cc:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=sfd.cloudvk.cc&pbk=Af5z1nqUp0NV9zY4hEtB66G1Df1vzs0TzX-ttU9BPA8#🇪🇺 Антиглушилка 10?serverDescription=TFRF
 vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@fvbn.cloudvk.cc:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=sfd.cloudvk.cc&pbk=Af5z1nqUp0NV9zY4hEtB66G1Df1vzs0TzX-ttU9BPA8#🇪🇺 Антиглушилка 11?serverDescription=TFRF
 vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@lk.nehtar.online:443?type=ws&security=tls&fp=firefox&sni=lk.nehtar.online&path=/gateway/v1/ws/3e6a32d3375b943c588affa154cff26e&alpn=http/1.1#🇪🇺 Антиглушилка 12?serverDescription=TFRF
 vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@lk.nehtar.online:443?type=ws&security=tls&fp=firefox&sni=lk.nehtar.online&path=/gateway/v1/ws/3e6a32d3375b943c588affa154cff26e&alpn=http/1.1#🇪🇺 Антиглушилка 13?serverDescription=TFRF
 vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@185.22.234.160:8443?type=grpc&security=reality&fp=firefox&sni=id.pervye.ru&pbk=aXRkGuTaLQILSXsgyi79AcsxLPFhUXUKMTVExG6bmi8&serviceName=ns#🇪🇺 Антиглушилка 14?serverDescription=TFRF
 vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@185.22.234.251:25565?type=grpc&security=reality&fp=firefox&sni=cvxvx.compuetinfo.com&pbk=vCHucdoD_m-TKVHS7si1akKgP6r4dvTLUX8y1TTZQG4&serviceName=ns#🇪🇺 Антиглушилка 15?serverDescription=TFRF
-vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@87.242.127.82:4443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=google.com&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0#🇪🇺 Антиглушилка 16?serverDescription=TFRF
-vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@arnc.cloudvk.cc:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=das.cloudvk.cc&pbk=NcpfivEWQKpSJUuliuel7flac0brraixssjyJYQ0Pm8#🇪🇺 Антиглушилка 17?serverDescription=TFRF
+vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@87.242.127.82:4443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=google.com&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0#🇪🇺 Антиглушилка 16?serverDescription=TFRFvless://14f4be39-cb89-4f2b-8200-704666b6fa4e@87.242.127.82:4443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=google.com&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0#🇪🇺 Антиглушилка 17?serverDescription=TFRF
