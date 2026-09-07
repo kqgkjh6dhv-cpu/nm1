@@ -1,7 +1,7 @@
 #profile-title: Chr
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=107374182400000; expire=1810579200
-#support-url: https://wa.me/79635990412
+#support-url: https://wa.me/79990098868
 #profile-test-interval: 300
 #profile-auto-switch: true
 #profile-allow-copy: false
