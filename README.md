@@ -1,4 +1,4 @@
-#profile-title: Bachi–Yurt VPN
+#profile-title: Legion VPN
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=107374182400000; expire=1810579200
 #support-url: https://wa.me/79990098868
