@@ -1,4 +1,4 @@
-#profile-title: Legion VPN
+#profile-title: Askhab VPN
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=107374182400000; expire=1810579200
 #support-url: https://wa.me/79990098868
@@ -30,3 +30,8 @@ vless://be83425f-74c5-4b03-9c4b-20aa16322698@nl3.h1cloud.net:25436?encryption=no
 vless://be83425f-74c5-4b03-9c4b-20aa16322698@us2.h1cloud.net:25369?encryption=none&type=tcp&security=reality&fp=firefox&sni=dl.google.com&pbk=4m6dzX2ZxktNdpYLe_b0L-cZB8CIhksgjnM65fi1-3c&sid=77b8c49f8b5eb0b9&spx=/#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90 (Безлимит)
 vless://be83425f-74c5-4b03-9c4b-20aa16322698@pl2.h1cloud.net:25057?encryption=none&type=tcp&security=reality&fp=firefox&sni=www.samsung.com&pbk=Ksv2blYe9Hso7Ezd7MWh68uabsKqPgCwui3kbqAUjzI&sid=4ff0b7dd508e9aad&spx=/#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0 (Безлимит)
 vless://be83425f-74c5-4b03-9c4b-20aa16322698@msk1.h1cloud.net:25797?encryption=none&type=tcp&security=reality&fp=firefox&sni=www.samsung.com&pbk=4mmAuk1YXW_zL5LO-LxbVCoIDxrufwhRTe21DkfEDkU&sid=bdc97fb016aebf15&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F (Безлимит)
+vless://cdd6bfce-781a-4454-b7d5-4778abb5c24f@roskaa6.api3-max.ru:443?flow=xtls-rprx-vision&type=tcp&security=tls&fp=firefox&sni=roskaa6.api3-max.ru&alpn=h2,http/1.1#🇬🇧 Великобритания (Игровой)
+vless://cdd6bfce-781a-4454-b7d5-4778abb5c24f@posa6.api3-max.ru:443?flow=xtls-rprx-vision&type=tcp&security=tls&fp=chrome&sni=posa6.api3-max.ru&alpn=h3#🇳🇱 Нидерланды (Игровой)
+vless://cdd6bfce-781a-4454-b7d5-4778abb5c24f@kama2.api3-max.ru:443?flow=xtls-rprx-vision&type=tcp&security=tls&fp=firefox&sni=kama2.api3-max.ru&alpn=h2,http/1.1#🇫🇷 Франция (Игровой)
+vless://2b886607-3d3a-47c6-ad62-e3e8a1ba20ca@13.kiska.lol:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=eh.vk.com&pbk=0_FWbcTe6tvBuSZ7_7PrMaNmg44a8VxYRXPKjZuERwQ&sid=a150dff4#🇵🇱 Польша LTE
+vless://2b886607-3d3a-47c6-ad62-e3e8a1ba20ca@8.kiska.lol:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=eh.vk.com&pbk=0_FWbcTe6tvBuSZ7_7PrMaNmg44a8VxYRXPKjZuERwQ&sid=a150dff4#🇱🇻 Латвия LTE
